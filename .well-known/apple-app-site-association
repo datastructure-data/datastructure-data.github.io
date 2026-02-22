@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "5979K669S2.com.ss.apple.p12" ],
+        "components": [ { "/": "*" } ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+include: [".well-known"]
+defaults:
+  - scope:
+      path: ".well-known"
+    values:
+      layout: null
+      content_type: "application/json"
